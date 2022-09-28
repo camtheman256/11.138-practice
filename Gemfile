@@ -4,6 +4,6 @@ source "https://rubygems.org"
 
 # gem "rails"
 
-gem "github-pages", "~> 227"
+gem "jekyll", "~> 4.2"
 
 gem "webrick", "~> 1.7"
